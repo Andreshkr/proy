@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.logo4{
+    width: 200px;
+    margin-right: 150px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.pag, .menu, .visita, .login {
+    font-size: 20px;
+    padding: 40px;
+    margin: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    position: relative;
+    bottom: 100px;
+}
+a{
+    color: black;
+}
+.redes img{
+    position: relative;
+    width: 90px;
+    margin: 20px;
+    padding: 25px;
+}

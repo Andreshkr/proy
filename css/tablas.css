@@ -1,0 +1,58 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.blista h1{
+    color: white;  
+}
+.lista {
+    margin-left: 50px;  
+    color: white;  
+}
+#main-container{
+    margin-left: 50px;
+    width: 600px;
+}
+.table1{
+    width: 50%;
+    background-color: white;
+    text-align: left;
+    border-collapse:collapse ;
+
+}
+.table1 th, td{
+    
+    padding: 15px;
+}
+#thead{
+    background-color: #037868;
+    border-bottom: solid 5px;
+    color: white;
+}
+.table1 tr:nth-child(even){
+    background-color: rgb(218, 214, 214);
+}
+.table1 tr:hover td{
+    color: white;
+    background-color: #037868;
+}
+#agregar{
+    margin: 20px;
+    color: white;
+}
+#registrousuario{
+    margin: 20px;
+    width: 600px;       
+}
+.table2{
+    width: 50%;
+    background-color: white;
+    text-align: left;
+    border-radius: 10%;
+}
+.sdfast{
+    padding: 95px 95px;
+    position: fixed;
+
+}
